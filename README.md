@@ -45,8 +45,9 @@ Identifying monkey species manually is difficult due to their visual similaritie
 ## 🖼️ Screenshot
 
 > _You can add a screenshot of your Streamlit app interface here_
-> ![Screenshot 2025-07-01 230235](https://github.com/user-attachments/assets/e2ea764a-942e-4ed5-a4b3-527f113406f8)
-![Screenshot 2025-07-01 230243](https://github.com/user-attachments/assets/8ea0128b-ca24-4ea0-a627-fdb419dada02)
+![Screenshot 2025-07-01 230243](https://github.com/user-attachments/assets/3671c4f0-0ff2-425e-8b4b-a3c8642ec9a3)
+![Screenshot 2025-07-01 230243](https://github.com/user-attachments/assets/08077d55-0fd3-45b1-b907-02b538ade121)
+
 
 
 ---
